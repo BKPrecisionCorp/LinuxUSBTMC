@@ -1,0 +1,5 @@
+Command: *idn?
+*idn?
+6 length
+Response: B&K Precision, 5335B, 602938010727110001, 1.12-01.06.03
+
